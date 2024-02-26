@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ConsoleApp41\\ConsoleApp41\\ConsoleApp41.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Code Academy\\ADO.NET\\ADO.NET_Project3\\ConsoleApp41\\ConsoleApp41.csproj",
       "projectName": "ConsoleApp41",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ConsoleApp41\\ConsoleApp41\\ConsoleApp41.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Code Academy\\ADO.NET\\ADO.NET_Project3\\ConsoleApp41\\ConsoleApp41.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\ConsoleApp41\\ConsoleApp41\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Code Academy\\ADO.NET\\ADO.NET_Project3\\ConsoleApp41\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

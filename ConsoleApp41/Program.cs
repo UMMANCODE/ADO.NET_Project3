@@ -16,7 +16,7 @@ do {
             int speakerCount = int.Parse(Console.ReadLine());
             int[] speakers = new int[speakerCount];
             for (int i = 0; i < speakerCount; i++) {
-                Console.WriteLine("Enter Speaker Id: ");
+                Console.Write("Enter Speaker Id: ");
                 speakers[i] = int.Parse(Console.ReadLine());
             }
             eventDao.Insert(newEvent, speakers);
@@ -49,8 +49,8 @@ do {
             break;
         case "6":
             Console.WriteLine("Get All Speakers");
-            List<Speaker> speakers = speakerDao.GetAll();
-            foreach (Speaker s in speakers) {
+            List<Speaker> speakersList = speakerDao.GetAll();
+            foreach (Speaker s in speakersList) {
                 Console.WriteLine(s);
             }
             break;
